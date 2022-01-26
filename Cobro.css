@@ -33,7 +33,6 @@
 
 .u-section-1 .u-custom-html-1 {
   min-height: 94px;
-  height: auto;
   margin: 9px 312px 60px 667px;
 }
 
@@ -69,6 +68,7 @@
   }
 
   .u-section-1 .u-custom-html-1 {
+    height: auto;
     margin-right: 212px;
     margin-left: 567px;
   }
